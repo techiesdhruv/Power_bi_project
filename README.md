@@ -7,8 +7,7 @@ To analyze and visualize employee attrition data using Power BI by examining the
 ## 📂 Dataset Used
 Dataset Name: Employee Attrition Data
 
-<a hrref="https://github.com/techiesdhruv/Power_bi_project/blob/main/HR_Analytics.csv"> Employee Attrition Data</a>
-<a hrref="https://github.com/techiesdhruv/Power_bi_project/blob/main/HR_Analytics.csv"> Dataset</a>
+- <a href="https://github.com/techiesdhruv/Power_bi_project/blob/main/HR_Analytics.csv">Dataset</a>
 
 
 ## Questions (KPIs)
@@ -37,8 +36,9 @@ Attrition trend over years of service
 
 ##  Dashboard Screenshot
  ![Screenshot(495)](https://github.com/techiesdhruv/Power_bi_project/blob/main/Screenshot.jpeg)
+ 
  ## ⚙️ Process Followed
-- Verified and cleaned the data (nulls, format consistency)
+ - Verified and cleaned the data (nulls, format consistency)
 
 - Performed transformation and modeling using Power BI tools
 
