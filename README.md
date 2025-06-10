@@ -36,7 +36,7 @@ Attrition trend over years of service
 
 
 ##  Dashboard Screenshot
-
+ ![Screenshot(495)](https://github.com/techiesdhruv/Power_bi_project/blob/main/Screenshot.jpeg)
  ## ⚙️ Process Followed
 - Verified and cleaned the data (nulls, format consistency)
 
